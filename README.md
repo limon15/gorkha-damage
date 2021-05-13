@@ -1,0 +1,2 @@
+# gorkha-damage
+Análisis exploratorio de dataset compuesto por encuestas realizadas por Kathmandu Living Labs y el Central Bureau of Statistics acerca del terremoto Gorkha ocurrido en el 2015 en Nepal. El dataset contiene información sobre el impacto del terremoto, el estado de las viviendas y estadísticas sociodemográficas. El objetivo de determinar características y variables importantes, descubrir insights interesantes y analizar la estructura de los mismos.
