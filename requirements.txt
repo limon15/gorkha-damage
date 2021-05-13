@@ -8,7 +8,7 @@ cycler==0.10.0
 decorator==5.0.7
 defusedxml==0.7.1
 entrypoints==0.3
--e git+https://github.com/limon15/gorkha-damage.git@bd4a2a17777aa53c52e7aa6424d772d335bd7b16#egg=gorkha_damage
+-e git+https://github.com/limon15/gorkha-damage.git@95b518399b7b63f50ce1557a2c643ae361324ccd#egg=gorkhadamage
 importlib-metadata==4.0.1
 ipykernel==5.5.5
 ipython==7.23.1

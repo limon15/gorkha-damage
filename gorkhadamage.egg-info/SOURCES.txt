@@ -1,0 +1,5 @@
+README.md
+gorkhadamage.egg-info/PKG-INFO
+gorkhadamage.egg-info/SOURCES.txt
+gorkhadamage.egg-info/dependency_links.txt
+gorkhadamage.egg-info/top_level.txt
